@@ -13,8 +13,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-
+<body>
+  <div id-"wrap">
+<img alt="Static Badge" src="https://img.shields.io/badge/java%20script-yellow">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/figma-purple">
+<img alt="Static Badge" src="https://img.shields.io/badge/Photoshop-pink">
+<img alt="Static Badge" src="https://img.shields.io/badge/React-skyblue">
+  </div>
+</body>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nary-byun&show_icons=true&locale=en&layout=compact" alt="nary-byun" /></p>
 
 
