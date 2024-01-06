@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **byunnary@gmail.com**
 
-<h3 align="left">Things I code with </h3>
+<h3 align="left">Things my skills </h3>
 
 <body>
   <div id-"wrap">
