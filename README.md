@@ -1,3 +1,5 @@
+
+![header](https://capsule-render.vercel.app/api?color=auto)
 <h1 align="center">Hi 👋, I'm Nary Byun</h1>
 
 - 🌱 I’m currently learning **React, Node.js**
@@ -14,7 +16,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/java%20script-yellow">
 <img alt="Static Badge" src="https://img.shields.io/badge/React-skyblue">
 <img alt="Static Badge" src="https://img.shields.io/badge/figma-purple">
-<img alt="Static Badge" src="https://img.shields.io/badge/Photoshop-pink">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-pink">
 
   </div>
 </body>
