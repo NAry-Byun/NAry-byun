@@ -6,7 +6,7 @@
 
 -📫 How to reach me **byunnary@gmail.com**</h3>
 
-<h3 align="center">Things my skills <p></p>
+<h3 align="center">My skills <p></p>
 
 
 
