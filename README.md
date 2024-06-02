@@ -6,19 +6,7 @@
 
 -📫 How to reach me **byunnary@gmail.com**</h3>
 
-<h3 align="center">My skills <p></p>
 
-
-
-<body>
-  <div id-"wrap">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/java%20script-yellow">
-<img alt="Static Badge" src="https://img.shields.io/badge/React-skyblue">
-<img alt="Static Badge" src="https://img.shields.io/badge/figma-purple">
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-pink">
 
   </div>
 </body>
